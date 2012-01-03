@@ -16,5 +16,5 @@
   solution, but it might not be the clearest; and as the code ages &
   changes, you might need to refactor the lines of the template
   methods. Maybe this is an argument for keeping use of the template
-  method small. I'll try to think up a good example.
+  method small. I'll try to think up a good example. _Dan_
 
