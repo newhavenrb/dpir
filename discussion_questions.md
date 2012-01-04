@@ -1,6 +1,6 @@
 # Discussion Questions
 
-See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-book-club-eloquent-ruby/) (there were some questions about DPiR).
+See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-book-club-eloquent-ruby/) (there were some questions about DPiR, from the beginning until about 7-6 minutes in, and perhaps later  )
 
 ## Preface
 
