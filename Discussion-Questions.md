@@ -1,5 +1,7 @@
 # Discussion Questions
 
+[Meetup event](http://www.meetup.com/newhavenrb/events/46434952/)
+
 See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-book-club-eloquent-ruby/) (there were some questions about DPiR, from the beginning until about 6-7 minutes in, and perhaps later)
 
 ## Preface
