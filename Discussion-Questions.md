@@ -18,6 +18,8 @@ See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-boo
 
 ## Chapter 2: Overview of the Ruby language
 
+* Coming from statically typed languages like Java and C, I still don't fully understand how the ruby interpreter handles all `@instance_variable`'s.  How exactly does the interpreter pick up all of them? _Zach_
+
 This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be happy to clear things up.
 
 ## Chapter 3: Template Methods
