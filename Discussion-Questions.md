@@ -8,6 +8,7 @@ See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-boo
 
 * Regarding the C OOP analogy, Linus Torvalds is an OOP naysayer, but has made highly reliable (and maintainable?) code.  What does this say about OOP? _benjaminoakes_
   * I think it means OOP is not the only way to do it. You can write poetry in French _or_ English. _danbernier_
+  * [Panel: Objects on Trial](http://www.infoq.com/presentations/Panel-Objects-On-Trial) is supposed to be a funny but serious look at oop in general. Best point made for me is that you don't need O.O. based language to create an O.O. system.  
 * Is it bad to use patterns as more than a vocabulary?  Should they only be "rediscovered"? _benjaminoakes_
 * Is DRY an antipattern?  Is it over-applied or often prematurely applied? _benjaminoakes_
 * Is YAGNI an antipattern?  Is it over-applied or often prematurely applied? _danbernier_
