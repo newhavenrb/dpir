@@ -32,6 +32,8 @@ This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be h
 
 ## Chapter 3: Template Methods
 
+* When have you found yourself using **Template** before? _benjaminoakes_
+* When have you wished you _hadn't_ used **Template** before? _benjaminoakes_
 * One thing I find tricky about the Template Method pattern is picking
   methods to "punch out" of the template, in a way that makes
   sense. If you pick strictly the things that vary, it's an effective
@@ -39,6 +41,5 @@ This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be h
   changes, you might need to refactor the lines of the template
   methods. Maybe this is an argument for keeping use of the template
   method small. I'll try to think up a good example. _danbernier_
-* Is **Template** limited in its usefulness?  As @danbernier points out, it's more useful when there are fewer things that vary.  The example of `initialize` in Ruby being a hook method is one example (only one method, but look at how much you can do with it). _benjaminoakes_
-* When have you found yourself using **Template** before? _benjaminoakes_
-* When have you wished you _hadn't_ used **Template** before? _benjaminoakes_
+* Is **Template** limited in its usefulness?  As @danbernier points out, it's more useful when there are fewer things that vary.  The example of `initialize` in Ruby being a hook method is one example (only one method, but look at how much you can do with it).  _benjaminoakes_
+* Is Ruby's `Object` a good example of when inheritance makes sense (in conjunction with the `initialize` hook)?  If so, what does that mean for `BasicObject`?
