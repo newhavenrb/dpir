@@ -40,3 +40,5 @@ This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be h
   methods. Maybe this is an argument for keeping use of the template
   method small. I'll try to think up a good example. _danbernier_
 * Is **Template** limited in its usefulness?  As @danbernier points out, it's more useful when there are fewer things that vary.  The example of `initialize` in Ruby being a hook method is one example (only one method, but look at how much you can do with it). _benjaminoakes_
+* When have you found yourself using **Template** before? _benjaminoakes_
+* When have you wished you _hadn't_ used **Template** before? _benjaminoakes_
