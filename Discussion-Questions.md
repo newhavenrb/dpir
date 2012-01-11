@@ -24,11 +24,11 @@ See also: [Russ Olsen interview on Ruby Rogues](http://rubyrogues.com/033-rr-boo
 
 ## Chapter 2: Overview of the Ruby language
 
+This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be happy to clear things up.
+
 * Coming from statically typed languages like Java and C, I still don't fully understand how the ruby interpreter handles all `@instance_variable`'s.  How exactly does the interpreter pick up all of them? _Zach_
  * I'm not sure what part is unclear to you, but basically, the syntax (something like `/\b@[a-z_]+\b/`) makes them easy enough to recognize. The main difference is that Ruby lets you add new instance variables at run-time (see https://gist.github.com/1579738: first, `f` has no `@bonk`, then later, it does). Think of it like a hash, where the key is the instance variable's name, and you can add new keys. _danbernier_
   * To expand on @danbernier's explanation:  are you familiar with how `this` is bound in JavaScript?  How about `this.variable = 'value'`?  The latter is **essentially** the same idea as `@variable = 'value'` in Ruby.
-
-This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be happy to clear things up.
 
 ## Chapter 3: Template Methods
 
