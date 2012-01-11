@@ -32,6 +32,10 @@ This chapter is Ruby basics.  If anyone has any clarifying questions, we'll be h
 
 ## Chapter 3: Template Methods
 
+From Wikipedia:
+
+> The control structure (inversion of control) that is the result of the application of a template pattern is often referred to as the Hollywood Principle: "Don't call us, we'll call you."
+
 * When have you found yourself using **Template** before? _benjaminoakes_
 * When have you wished you _hadn't_ used **Template** before? _benjaminoakes_
 * One thing I find tricky about the Template Method pattern is picking
